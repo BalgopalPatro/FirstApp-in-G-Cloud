@@ -1,0 +1,24 @@
+{
+  "name": "firstapp-in-g-cloud",
+  "version": "1.0.0",
+  "description": "This is my First App in GCLOUD",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalgopalPatro/FirstApp-in-G-Cloud.git"
+  },
+  "author": "N Balgopal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BalgopalPatro/FirstApp-in-G-Cloud/issues"
+  },
+  "homepage": "https://github.com/BalgopalPatro/FirstApp-in-G-Cloud#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
